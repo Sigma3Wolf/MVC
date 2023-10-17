@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginByEmail", "LoginByEmail\LoginByEmail.csproj", "{75CD960B-0E46-4030-A7A5-8DB11D537336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CD960B-0E46-4030-A7A5-8DB11D537336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CD960B-0E46-4030-A7A5-8DB11D537336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CD960B-0E46-4030-A7A5-8DB11D537336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CD960B-0E46-4030-A7A5-8DB11D537336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15DDD5A-9BB9-4C56-BAE1-C2D69D8C442F}
+	EndGlobalSection
+EndGlobal
